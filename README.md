@@ -1,4 +1,4 @@
-# NestedRegressionData
+# Nested Regression data
 Datasets and related files for https://arxiv.org/abs/2109.11281. Synthetic datasets were simulated as described in the paper.
 
 ## Avocado data
